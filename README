@@ -62,7 +62,7 @@
     4.  Usage
 ----------------------------------------
 
-    Usage:  belted [OPTION]
+    Usage:  flappyjames [OPTION]
 
     Options:
         -h or --help:		    Print help text
